@@ -35,7 +35,7 @@ For easy access to the Kaggle dataset, click the link below:
 
 <p align="center">
     <a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/discussion">
-        <img src="https://www.svgrepo.com/show/528242/file-download.svg" width="100px" alt="Access Dataset"><br>
+        <img src="https://www.svgrepo.com/show/528242/file-download.svg" width="80px" alt="Access Dataset"><br>
     </a>
 </p>
 
