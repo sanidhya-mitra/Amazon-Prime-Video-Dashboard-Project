@@ -35,7 +35,7 @@ For easy access to the Kaggle dataset, click the link below:
 
 <p align="center">
     <a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/discussion">
-        <img src="https://www.svgrepo.com/show/528242/file-download.svg" width="80px" alt="Access Dataset"><br>
+        <img src="https://www.svgrepo.com/show/527032/file-download.svg" width="80px" alt="Access Dataset"><br>
     </a>
 </p>
 
@@ -59,7 +59,7 @@ A donut chart displays the ratio of movies to TV shows, offering insights into p
 ### Global Reach and Localization
 Mapping the total shows by country highlights the global spread and localization efforts of Amazon Prime Video content.
 
-## Acknowledgments 🙏
+## Acknowledgments 🙏:
 
 Special thanks to the invaluable tutorial provided by [this YouTube channel](https://youtu.be/_xs8XXlGQVM?si=rQiko-G_LBRr22Yy), which guided the initial setup and design of this dashboard. The step-by-step guidance was crucial in mastering the complexities of data visualization for this project.
 
