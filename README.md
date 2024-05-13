@@ -31,7 +31,7 @@ This project aims to create a dynamic content analytics dashboard for Amazon Pri
 
 This dataset provides a comprehensive view of the movies and TV shows available on Amazon Prime. It's hosted on Kaggle, providing rich details useful for analysis in this dashboard. 
 
-For easy access to the Kaggle dataset, click the link below:
+For easy access to the Kaggle dataset, click the icon below:
 
 <p align="center">
     <a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/discussion">
