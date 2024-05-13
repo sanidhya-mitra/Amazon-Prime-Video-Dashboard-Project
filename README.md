@@ -76,5 +76,6 @@ These insights assist in making informed decisions about future content developm
 ---
 
 <div align="center">
-Thank you for exploring the Amazon Prime Video Dashboard. Your feedback and interest are greatly appreciated. I'm open to discussions and eager to assist. Connect with me on <a href="https://www.linkedin.com/in/sanidhya-mitra">LinkedIn | Sanidhya Mitra</a>
+Thank you for exploring the Amazon Prime Video Dashboard. Your feedback and interest are greatly appreciated. I'm open to discussions and eager to assist.<br>
+   🌐 Connect with me on <a href="https://www.linkedin.com/in/sanidhya-mitra">LinkedIn | Sanidhya Mitra</a>
 </div>
