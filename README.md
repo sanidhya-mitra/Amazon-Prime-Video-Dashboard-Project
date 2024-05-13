@@ -31,12 +31,12 @@ This project aims to create a dynamic content analytics dashboard for Amazon Pri
 
 This dataset provides a comprehensive view of the movies and TV shows available on Amazon Prime. It's hosted on Kaggle, providing rich details useful for analysis in this dashboard. 
 
-For easy access to the dataset, click the link below:
+For easy access to the Kaggle dataset, click the link below:
 
 <p align="center">
     <a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/discussion">
-        <img src="https://www.svgrepo.com/show/489959/file-document.svg" width="50px" alt="Access Dataset"><br>
-        Access this Kaggle Dataset
+        <img src="https://www.svgrepo.com/show/528242/file-download.svg" width="100px" alt="Access Dataset"><br>
+          CLICK TO ACCESS
     </a>
 </p>
 
@@ -63,6 +63,10 @@ Mapping the total shows by country highlights the global spread and localization
 ## Acknowledgments 🙏
 
 Special thanks to the invaluable tutorial provided by [this YouTube channel](https://youtu.be/_xs8XXlGQVM?si=rQiko-G_LBRr22Yy), which guided the initial setup and design of this dashboard. The step-by-step guidance was crucial in mastering the complexities of data visualization for this project.
+
+## Dashboard 🎛:
+
+![Amazon Dashboard](https://github.com/sanidhya-mitra/Amazon_Prime_Video_Dashboard_Project/blob/main/Amazon%20Prime%20Dashboard.gif)
 
 ## Conclusion and Insights 💡:
 
