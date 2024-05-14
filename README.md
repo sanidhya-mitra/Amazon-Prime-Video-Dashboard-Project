@@ -21,7 +21,11 @@ This project aims to create a dynamic content analytics dashboard for Amazon Pri
 | **Total Shows by Country**         | Geographical distribution of content production.              |
 | **Total Shows by Year of Release** | Trends in content release over the years.                     |
 
-## Data Source 📁
+## Dashboard 🎛:
+
+![Amazon Dashboard](https://github.com/sanidhya-mitra/Amazon_Prime_Video_Dashboard_Project/blob/main/Amazon%20Prime%20Dashboard.gif)
+
+## Data Source 📁:
 
 **Amazon Prime Video** is one of the most popular media and video streaming platforms. Here are some key highlights of the platform and the dataset:
 
@@ -59,14 +63,6 @@ A donut chart displays the ratio of movies to TV shows, offering insights into p
 ### Global Reach and Localization
 Mapping the total shows by country highlights the global spread and localization efforts of Amazon Prime Video content.
 
-## Acknowledgments 🙏:
-
-Special thanks to the invaluable tutorial provided by [this YouTube channel](https://youtu.be/_xs8XXlGQVM?si=rQiko-G_LBRr22Yy), which guided the initial setup and design of this dashboard. The step-by-step guidance was crucial in mastering the complexities of data visualization for this project.
-
-## Dashboard 🎛:
-
-![Amazon Dashboard](https://github.com/sanidhya-mitra/Amazon_Prime_Video_Dashboard_Project/blob/main/Amazon%20Prime%20Dashboard.gif)
-
 ## Conclusion and Insights 💡:
 
 The Amazon Prime Video Dashboard reveals significant insights into the content strategy and viewer engagement:
@@ -75,6 +71,10 @@ The Amazon Prime Video Dashboard reveals significant insights into the content s
 - **Viewer Preferences**: A substantial majority of content consists of movies, pointing towards a potential area for expanding TV show offerings.
 
 These insights assist in making informed decisions about future content development and marketing strategies.
+
+## Acknowledgments 🙏:
+
+Special thanks to the invaluable tutorial provided by [this YouTube channel](https://youtu.be/_xs8XXlGQVM?si=rQiko-G_LBRr22Yy), which guided the initial setup and design of this dashboard. The step-by-step guidance was crucial in mastering the complexities of data visualization for this project.
 
 ---
 
